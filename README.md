@@ -1,4 +1,4 @@
-# 🔐 Secure File Storage System
+# 🔐 Secure File Manager
 
 A secure file storage and sharing application built using **Java, Spring Boot, Spring Security, JPA, MySQL, and AES-GCM Encryption**. The system ensures that uploaded files are encrypted before storage and can only be downloaded using a valid download key.
 
@@ -194,13 +194,7 @@ mvn test
 
 ---
 
-## 👨‍💻 Team
-
-**Group 9**
-
-MCA Project
-
----
+ 
 
 ## 📄 License
 
