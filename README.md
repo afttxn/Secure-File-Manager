@@ -192,14 +192,4 @@ mvn test
 * Audit Logging
 * Multi-Factor Authentication
 
----
-
  
-
-## 📄 License
-
-This project is developed for academic and educational purposes.
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
